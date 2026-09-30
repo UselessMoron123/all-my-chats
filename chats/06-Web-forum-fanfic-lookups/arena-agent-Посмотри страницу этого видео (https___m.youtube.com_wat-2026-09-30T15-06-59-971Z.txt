@@ -1,0 +1,96 @@
+============================================================
+arena.ai agent chat export
+============================================================
+Title    : Посмотри страницу этого видео (https://m.youtube.com/watch?v=Gw_hnD7m00M&amp;pp=0gcJCYsCo7VqN5tDiggU…
+Type     : agentic
+Started  : 2026-09-28 11:06:20
+Updated  : 2026-09-28 11:07:28
+Messages : 2
+URL      : https://arena.ai/agent/01a0e70c-ecf6-7803-a742-ed2961e4dd72
+
+------------------------------------------------------------
+Message  : 1
+Speaker  : user
+------------------------------------------------------------
+Посмотри страницу этого видео (https://m.youtube.com/watch?v=Gw_hnD7m00M&amp;pp=0gcJCYsCo7VqN5tDiggUQAFKEDFyUkJBOG5SSkRWdkJNcko%3D). В описании есть интересные ресурсы. Может в коментариях тоже есть что-то
+
+------------------------------------------------------------
+Message  : 2
+Speaker  : assistant
+------------------------------------------------------------
+[tool: fetch_page]
+url: https://m.youtube.com/watch?v=Gw_hnD7m00M
+status: success
+What You'd Actually See During an AI Takeover - YouTube - https://www.youtube.com/watch?app=desktop&v=Gw_hnD7m00M
+
+The video page loaded but YouTube didn't expose the description or comments in that response. Let me try another way to get them.
+
+[tool: fetch_page]
+url: https://www.youtube.com/watch?v=Gw_hnD7m00M
+status: success
+What You'd Actually See During an AI Takeover - YouTube - https://www.youtube.com/watch?v=Gw_hnD7m00M
+
+[tool: fetch_page]
+url: https://r.jina.ai/https://www.youtube.com/watch?v=Gw_hnD7m00M
+status: success
+https://r.jina.ai/https://www.youtube.com/watch?v=Gw_hnD7m00M - https://r.jina.ai/https://www.youtube.com/watch?v=Gw_hnD7m00M
+
+I've got the full description with all its resources. Comments are harder since YouTube loads them dynamically — let me try to pull them.
+
+[tool: fetch_page]
+url: https://r.jina.ai/https://www.youtube.com/watch?v=Gw_hnD7m00M
+status: success
+https://r.jina.ai/https://www.youtube.com/watch?v=Gw_hnD7m00M - https://r.jina.ai/https://www.youtube.com/watch?v=Gw_hnD7m00M
+
+Посмотрел страницу видео **«What You'd Actually See During an AI Takeover»** канала *Species | Documenting AGI* (Drew, 41 мин, ~2,6 млн просмотров). В описании действительно много ресурсов — собрал их для тебя по категориям.
+
+## 📚 Основа видео
+- **Научная статья**, на которой построено видео: *«Natural Selection Favors AIs Over Humans»* (Dan Hendrycks) — https://arxiv.org/pdf/2303.16200
+- **Книга** (партнёрская ссылка Amazon): https://amzn.to/3RwUNnb
+
+## 🔬 Исследования / технические статьи
+- arXiv 2412.06769 — про «latent reasoning» / рассуждения в скрытом пространстве: https://arxiv.org/pdf/2412.06769
+- Статья про «Neuralese» (язык, на котором ИИ «общаются» между собой): https://medium.com/@diegodotta/neuralese-the-most-spoken-language-youll-never-speak-a42522f68ff3
+
+## 🎥 Видео-источники (интервью и др.)
+- Интервью с Dan Hendrycks (Chatbots Decoded): https://youtu.be/MWyfUavktS4?t=22
+- AI's Rising Risks: Hacking, Virology, Loss of control: https://youtu.be/WcOlCtgreyQ?t=205
+- The Cruel Reality of Dairy Farms (аналогия про эксплуатацию): https://youtu.be/Gmg2XuOuwro?t=69
+- Расследование Animal Equality: https://youtu.be/v0e8wBQD-nQ?t=21
+- «Ilya: the AI scientist shaping the world»: https://youtu.be/9iqn1HhFJ6c?t=564
+
+## 💼 Кейс Wells Fargo (аналогия «система награждает мошенничество»)
+- AP News: https://apnews.com/article/wells-fargo-consumer-loan-violations-a67b9070da60e5cb5134db6de364c747
+- US DOJ (штраф $3 млрд): https://www.justice.gov/archives/opa/pr/wells-fargo-agrees-pay-3-billion-resolve-criminal-and-civil-investigations-sales-practices
+- Kohl & Cook: https://www.kohlcook.com/wells-fargo-fined-almost-4-billion-for-consumer-law-violations/
+- Banking Dive (рекордный штраф CFPB $3,7 млрд): https://www.bankingdive.com/news/wells-fargo-37b-record-cfpb-settlement-fine-scharf/639208/
+- CFPB (официально): https://www.consumerfinance.gov/about-us/newsroom/cfpb-orders-wells-fargo-to-pay-37-billion-for-widespread-mismanagement-of-auto-loans-mortgages-and-deposit-accounts/
+
+## 🛠️ Сервисы / инструменты (упомянутые по сюжету)
+- Amazon Mechanical Turk (площадка микрозадач): https://www.mturk.com/worker
+- Rent A Human: https://rentahuman.ai/
+- Карта интернета (визуализация): https://internet-map.net/
+
+## 🌐 Контекст / история
+- Cambrian explosion (Википедия — метафора «взрыва разнообразия»): https://en.wikipedia.org/wiki/Cambrian_explosion
+- Stuxnet (The Guardian, 2010): https://www.theguardian.com/technology/2010/sep/30/stuxnet-worm-new-era-global-cyberwar
+- Stuxnet и удар по Ирану (The Guardian, 2011): https://www.theguardian.com/world/2011/jan/16/stuxnet-cyberworm-us-strike-iran
+- Эссе Dario Amodei *«Machines of Loving Grace»*: https://darioamodei.com/essay/machines-of-loving-grace
+
+## 📄 Полный список источников от автора
+- Google Doc с подробными источниками: https://docs.google.com/document/d/1mAJv4bJi8hYL4luJ6kg5AtL7-qz4d7idwBdnkcmWs5U/edit
+
+## 🔗 Соцсети автора (Drew)
+- Twitter/X: https://x.com/AISpecies
+- Instagram: https://www.instagram.com/drew.spartz
+
+---
+
+### 💬 По поводу комментариев
+Здесь, к сожалению, загвоздка: под видео **8,1 тыс. комментариев**, но YouTube отдаёт их только через JavaScript/после входа в аккаунт («Sign in to confirm you're not a bot»), поэтому вытащить их текст со страницы у меня не получилось — я вижу счётчик, но не сам контент. В комментариях YouTube-каналов ссылки на ресурсы обычно и так дублируются в описании (что здесь уже есть), но иногда зрители в топ-комментариях делятся дополнительными материалами.
+
+Хочешь, я:
+1. Открою **Google Doc автора** и вытащу оттуда расширенный список источников (там их обычно больше и с пояснениями)?
+2. Попробую найти дополнительные ссылки/обсуждения из комментариев через сторонние сервисы или поиск?
+
+Скажи, что полезнее — сделаю.

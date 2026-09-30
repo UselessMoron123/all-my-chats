@@ -1,0 +1,210 @@
+{
+  "exportedAt": "2026-09-29T17:03:25.960Z",
+  "source": "https://arena.ai",
+  "recordType": "evaluation",
+  "conversationUrl": "https://arena.ai/c/019f3d4f-f20f-7ca2-a33e-271df3985be8",
+  "evaluation": {
+    "id": "019f3d4f-f20f-7ca2-a33e-271df3985be8",
+    "userId": "0995c648-8914-4762-b5b9-0eb0d213652d",
+    "title": "You know rimworld? If I want 3 pawns ideal for starting colony, what stats should they have? Without",
+    "mode": "direct-battle",
+    "visibility": "public",
+    "lastMessageIds": [
+      "019f3d50-2942-7d76-8e90-2401214f2bb6"
+    ],
+    "archivedAt": null,
+    "deletedAt": null,
+    "deletionPendingProcessing": false,
+    "createdAt": "2026-07-07 16:01:40.052+00",
+    "updatedAt": "2026-07-07 16:01:40.935587+00",
+    "messages": [
+      {
+        "id": "019f3d50-2941-79d8-9f6e-329a4c980981",
+        "evaluationSessionId": "019f3d4f-f20f-7ca2-a33e-271df3985be8",
+        "evaluationId": "019f3d50-4e37-7387-be25-436ea41e20a7",
+        "role": "user",
+        "parentMessageIds": [],
+        "content": "You know rimworld? If I want 3 pawns ideal for starting colony, what stats should they have? Without traits for now. The gold middle, idel for star anywhere, universal combination, so i don't reroll each time I start new colony",
+        "experimental_attachments": [],
+        "modelId": null,
+        "createdAt": "2026-07-07T16:01:40.928595+00:00",
+        "updatedAt": "2026-07-07T16:01:40.928595+00:00",
+        "participantPosition": "a",
+        "status": "success",
+        "failureReason": null,
+        "activeWorkflowRunId": null,
+        "metadata": {
+          "botScore": 1,
+          "userAgent": "Mozilla/5.0 (Linux; Android 13; 220333QNY Build/TKQ1.221114.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.46 Mobile Safari/537.36 OPT/2.9",
+          "contentType": "application/json",
+          "botScoreType": "recaptcha_v2",
+          "secFetchMode": "cors",
+          "wouldEscalate": false,
+          "acceptLanguage": "*",
+          "recaptchaReason": "v2_solved",
+          "arenaLionV1Score": 0.6734923996407353,
+          "recaptchaDidFail": false,
+          "recaptchaOutcome": "accept",
+          "recaptchaV2Score": 1,
+          "arenaLionScoreNext": null,
+          "cloudflareMetadata": {
+            "ja4": "q13d0311h3_55b375c5d22e_653d80c3fe9d",
+            "botScore": "99",
+            "clientAsn": "15930",
+            "clientCity": "Nizhniy Kislyay",
+            "clientRegion": "Voronezh Oblast",
+            "clientCountry": "RU",
+            "hashedClientIp": "e8c8fe6a5b08722c4bdf3e812e63daf279890863b4b3a32f390e6957e2292846",
+            "ja4_ips_rank_1h": "2",
+            "ja4_uas_rank_1h": "5",
+            "clientRegionCode": "VOR",
+            "ja4_reqs_rank_1h": "3",
+            "ja4_h2h3_ratio_1h": "0.9999139",
+            "ja4_paths_rank_1h": "3",
+            "ja4_cache_ratio_1h": "0.5659596",
+            "ja4_ips_quantile_1h": "0.99999523",
+            "ja4_browser_ratio_1h": "0.8345008",
+            "ja4_reqs_quantile_1h": "0.99999285",
+            "ja4_heuristic_ratio_1h": "0.00020961613"
+          },
+          "recaptchaV2DidFail": false,
+          "arenaLionAttributes": {
+            "has_email": true,
+            "day_of_week": 2,
+            "hour_of_day": 16,
+            "email_domain": "gmail.com",
+            "cf_client_asn": "15930",
+            "votes_last_1d": 0,
+            "votes_last_1h": 0,
+            "votes_last_1w": 0,
+            "votes_last_5m": 0,
+            "signup_country": null,
+            "ja4_ips_rank_1h": 2,
+            "ja4_uas_rank_1h": 5,
+            "prompts_last_1d": 0,
+            "prompts_last_1h": 0,
+            "prompts_last_1w": 13,
+            "prompts_last_5m": 0,
+            "ja4_reqs_rank_1h": 3,
+            "ja4_h2h3_ratio_1h": 0.9999139,
+            "ja4_paths_rank_1h": 3,
+            "ja4_cache_ratio_1h": 0.5659596,
+            "account_age_seconds": 28764609.997,
+            "ja4_ips_quantile_1h": 0.99999523,
+            "signup_cf_bot_score": null,
+            "ja4_browser_ratio_1h": 0.8345008,
+            "ja4_reqs_quantile_1h": 0.99999285,
+            "ja4_heuristic_ratio_1h": 0.00020961613,
+            "signup_recaptcha_v3_score": null,
+            "suspicious_rate_limit_count": 9,
+            "suspicious_max_retries_count": null,
+            "suspicious_low_bot_score_count": 14,
+            "suspicious_risk_analysis_count": null,
+            "suspicious_extended_verdict_count": null
+          },
+          "arenaLionScoreCurrent": 0.6734923996407353,
+          "recaptchaV2RiskReasons": [],
+          "recaptchaV2FailureReason": null,
+          "arenaLionScoreNextVersion": null,
+          "recaptchaV2ExtendedReasons": [],
+          "arenaLionActiveModelVersion": "current",
+          "arenaLionScoreCurrentVersion": "v3",
+          "graceWindowTtlSecondsGranted": 604800
+        }
+      },
+      {
+        "id": "019f3d50-2942-7d76-8e90-2401214f2bb6",
+        "evaluationSessionId": "019f3d4f-f20f-7ca2-a33e-271df3985be8",
+        "evaluationId": "019f3d50-4e37-7387-be25-436ea41e20a7",
+        "role": "assistant",
+        "parentMessageIds": [
+          "019f3d50-2941-79d8-9f6e-329a4c980981"
+        ],
+        "content": "To create a \"Universal Trio\" that can survive anywhere from the ice sheet to the jungle without constant rerolling, you need to cover **all critical survival pillars** across three pawns.\n\nIn RimWorld, **Passions (the flame icons)** are actually more important than the starting number. A pawn with level 3 and a double flame is better than a level 8 with no flame.\n\nHere is the \"Gold Middle\" template for your three starters:\n\n---\n\n### Pawn 1: The Architect (Construction & Mining)\n*This pawn is responsible for your physical base. Without them, you can't build coolers, heaters, or power grids.*\n\n*   **Primary Skill: Construction (6-8+).** Essential for building beds and power generators without failing and wasting materials.\n*   **Secondary Skill: Mining (5+).** Necessary for expanding into mountains and gathering steel/components early.\n*   **Combat: Shooting.** Usually your primary defender.\n*   **Critical \"Must-Have\":** Must be capable of **Hauling and Cleaning**.\n\n### Pawn 2: The Provider (Plants, Cooking, & Medicine)\n*This is your survival specialist. They keep the colony fed and stop people from dying of infections.*\n\n*   **Primary Skill: Plants (8+).** This is the magic number because it allows you to harvest **Healroot** (herbal medicine) immediately.\n*   **Secondary Skill: Medicine (6-8+).** You need one person who can reliably patch up wounds and perform surgery.\n*   **Secondary Skill: Cooking (4-6+).** At level 4, the \"Food Poisoning\" chance drops significantly.\n*   **Combat: Shooting or Melee.** \n\n### Pawn 3: The Brains (Intellectual, Social, & Crafting)\n*This pawn ensures you don't get stuck in the Stone Age and handles the \"outside world.\"*\n\n*   **Primary Skill: Intellectual (6-8+).** Research is the only way to progress. In a \"starve or die\" situation, getting to Hydroponics or Microelectronics quickly is key.\n*   **Secondary Skill: Social (6+).** For recruiting prisoners and getting better prices from traders.\n*   **Secondary Skill: Crafting (4+).** Useful for making basic clothes and weapons early on.\n*   **Combat: Shooting.** \n\n---\n\n### The \"Universal Check-List\" (Before you hit Start)\n\nBefore you embark, check the **Left Side** of the character selection screen. Ensure these three things are true:\n\n1.  **The \"No-Go\" List:** None of the three pawns should have \"None\" or \"Disabled\" for:\n    *   **Dumb Labor** (Everyone must be able to haul and clean).\n    *   **Violence** (Everyone must be able to fight).\n    *   **Caring** (Everyone should be able to stabilize a wound in an emergency).\n2.  **The \"Healroot\" Check:** At least one pawn must have **Plants 8**. If you land in a biome with a short growing season and you can't grow your own medicine, you will likely lose to the first infection you get.\n3.  **The Overlap:** Make sure you have at least **two** people with a passion in **Medicine**. If your only doctor gets downed in a raid, your colony is effectively dead. \n\n### Summary for \"The Gold Middle\"\n*   **Pawn 1:** High **Construction**, decent Mining.\n*   **Pawn 2:** High **Plants**, decent Medicine/Cooking.\n*   **Pawn 3:** High **Intellectual**, decent Social/Crafting.\n\nIf you have this spread, you can land in a Desert, a Tundra, or a Forest and have the tools to survive the first year every time.",
+        "experimental_attachments": [],
+        "modelId": "019b47da-49b9-7295-906c-ce44ccd30d74",
+        "createdAt": "2026-07-07T16:01:40.932411+00:00",
+        "updatedAt": "2026-07-07T16:01:53.822047+00:00",
+        "participantPosition": "a",
+        "status": "success",
+        "failureReason": null,
+        "activeWorkflowRunId": null,
+        "metadata": {
+          "usage": {
+            "type": "language_model",
+            "inputTokens": 54,
+            "totalTokens": 1613,
+            "usageSource": "provider",
+            "outputTokens": 1559,
+            "cacheReadTokens": 0,
+            "reasoningTokens": 726
+          },
+          "botScore": 1,
+          "inputTokens": 54,
+          "aiSdkVersion": "6.0.116",
+          "botScoreType": "recaptcha_v2",
+          "outputTokens": 1559,
+          "fromAutoRouter": false,
+          "cacheReadTokens": 0,
+          "recaptchaDidFail": false,
+          "streamDurationMs": 12882,
+          "cloudflareMetadata": {
+            "ja4": "q13d0311h3_55b375c5d22e_653d80c3fe9d",
+            "botScore": "99",
+            "clientAsn": "15930",
+            "clientCity": "Nizhniy Kislyay",
+            "clientRegion": "Voronezh Oblast",
+            "clientCountry": "RU",
+            "hashedClientIp": "e8c8fe6a5b08722c4bdf3e812e63daf279890863b4b3a32f390e6957e2292846",
+            "ja4_ips_rank_1h": "2",
+            "ja4_uas_rank_1h": "5",
+            "clientRegionCode": "VOR",
+            "ja4_reqs_rank_1h": "3",
+            "ja4_h2h3_ratio_1h": "0.9999139",
+            "ja4_paths_rank_1h": "3",
+            "ja4_cache_ratio_1h": "0.5659596",
+            "ja4_ips_quantile_1h": "0.99999523",
+            "ja4_browser_ratio_1h": "0.8345008",
+            "ja4_reqs_quantile_1h": "0.99999285",
+            "ja4_heuristic_ratio_1h": "0.00020961613"
+          },
+          "timeToFirstTokenMs": 2,
+          "riskAnalysisReasons": [],
+          "timeToStreamCompleteMs": 12849,
+          "timeToFirstContentTokenMs": 6358
+        }
+      }
+    ],
+    "maskedEvaluations": [
+      {
+        "id": "019f3d50-4e37-7387-be25-436ea41e20a7",
+        "modality": "chat",
+        "arenaId": "4c249f58-2f34-4859-bbdb-4233a8313340",
+        "metadata": null
+      }
+    ],
+    "pairwiseFeedbacks": [],
+    "pointwiseFeedbacks": [],
+    "revealedModels": [
+      {
+        "id": "019b47da-49b9-7295-906c-ce44ccd30d74",
+        "organization": "google",
+        "provider": "googleVertexGlobal",
+        "publicName": "gemini-3-flash",
+        "name": "gemini-3-flash",
+        "displayName": "gemini-3-flash",
+        "capabilities": {
+          "inputCapabilities": {
+            "text": true,
+            "image": true
+          },
+          "outputCapabilities": {
+            "text": true,
+            "web": true
+          }
+        },
+        "userSelectable": true
+      }
+    ]
+  }
+}
