@@ -552,11 +552,20 @@
       const rowId = rowMatch[1].toLowerCase();
       const rhs = rowMatch[2].trim();
       if (!rhs || rowId in textRecords) continue;
+      // Skip client module import rows (`I[...]`), hint rows (`HL[...]`), error/debug rows (`E{...}`)
+      if (/^(?:I|HL|E|T|B)\b/.test(rhs) || rhs.startsWith("I[") || rhs.startsWith("HL[")) {
+        continue;
+      }
 
-      const jsonPayloadMatch = rhs.match(/^[A-Za-z]{0,3}([\[{"\-0-9tfn].*)$/);
+      const jsonPayloadMatch = rhs.match(/^([\["{\-0-9tfn].*)$/);
       if (jsonPayloadMatch) {
         try {
-          rowRecords[rowId] = JSON.parse(jsonPayloadMatch[1]);
+          const parsedRow = JSON.parse(jsonPayloadMatch[1]);
+          // Skip React element tuples `["$", ...]` at top level when storing data rows
+          if (Array.isArray(parsedRow) && parsedRow[0] === "$") {
+            continue;
+          }
+          rowRecords[rowId] = parsedRow;
         } catch (_error) {
           // Ignore non-JSON RSC rows
         }
@@ -630,20 +639,25 @@
       if (value.startsWith("$D") && value.length > 2) {
         return value.slice(2);
       }
-      const match = value.match(/^\$(?:L|@|S|F|Q|W)?([0-9a-f]+)$/i);
+      // Only strip non-hex RSC reference prefixes (`L` or `@`), never `F` (which is a hex digit!)
+      const match = value.match(/^\$(?:L|@)?([0-9a-f]+)$/i);
       if (match) {
         const refId = match[1].toLowerCase();
         if (textRecords && typeof textRecords[refId] === "string") {
           return textRecords[refId];
         }
         if (rowRecords && Object.prototype.hasOwnProperty.call(rowRecords, refId)) {
+          const targetRow = rowRecords[refId];
+          if (Array.isArray(targetRow) && targetRow[0] === "$") {
+            return value;
+          }
           if (stack.has(refId)) {
-            return rowRecords[refId];
+            return value;
           }
           const nextStack = new Set(stack);
           nextStack.add(refId);
           return resolveNextFlightReferences(
-            rowRecords[refId],
+            targetRow,
             rowRecords,
             textRecords,
             nextStack
@@ -841,7 +855,8 @@
         const resolvedRow = resolveNextFlightReferences(
           rowRecords[rowId],
           rowRecords,
-          textRecords
+          textRecords,
+          new Set([rowId])
         );
         inspectNode(resolvedRow);
       } catch (_error) {
@@ -1102,7 +1117,17 @@
     if (!attachments.length) {
       return "";
     }
-    return `${attachments.length} file${attachments.length > 1 ? "s" : ""} attached`;
+    const details = attachments
+      .map((att) => {
+        const name = att?.name || att?.filename || "";
+        const contentType = att?.contentType || att?.mediaType || "";
+        const url = att?.url || "";
+        return [name, contentType ? `(${contentType})` : "", url].filter(Boolean).join(" ");
+      })
+      .filter(Boolean)
+      .join("; ");
+    const countLabel = `${attachments.length} file${attachments.length > 1 ? "s" : ""} attached`;
+    return details ? `${countLabel}: ${details}` : countLabel;
   }
 
   function getMessageParentKey(message) {
@@ -1226,6 +1251,40 @@
     if (part.type === "reasoning" && reasoningText.trim()) {
       return `[reasoning]\n${reasoningText}`;
     }
+    if (part.type === "file") {
+      const filename = part.filename || part.name || "attachment";
+      const mediaType = part.mediaType || part.contentType || "";
+      const url = part.url || "";
+      return `[file] ${filename}${mediaType ? ` (${mediaType})` : ""}${url ? ` - ${url}` : ""}`;
+    }
+    if (part.type === "data-tool-results" && Array.isArray(part.data)) {
+      const blocks = [];
+      for (const entry of part.data) {
+        if (!entry || typeof entry !== "object") continue;
+        const toolName = entry.tool || "tool";
+        const entryLines = [`[tool-result: ${toolName}]`];
+        const answers = entry.output?.answers;
+        if (Array.isArray(answers) && answers.length > 0) {
+          for (const ans of answers) {
+            const qId = ans?.questionId || "question";
+            const selected = ans?.selectedOptionId;
+            const custom = ans?.customResponse;
+            const valParts = [];
+            if (selected) valParts.push(String(selected));
+            if (custom) valParts.push(String(custom));
+            entryLines.push(`- ${qId}: ${valParts.join(" / ") || "(no answer)"}`);
+          }
+        } else if (entry.output !== undefined) {
+          entryLines.push(
+            typeof entry.output === "string"
+              ? entry.output
+              : JSON.stringify(entry.output, null, 2)
+          );
+        }
+        blocks.push(entryLines.join("\n"));
+      }
+      return blocks.join("\n\n");
+    }
     const partType = String(part.type || "");
     if (
       partType.startsWith("tool-") ||
@@ -1250,11 +1309,38 @@
         } else if (input.prompt) {
           lines.push(`prompt: ${input.prompt}`);
         }
+        if (Array.isArray(input.questions) && input.questions.length > 0) {
+          input.questions.forEach((q, qIdx) => {
+            lines.push(
+              `question ${qIdx + 1} (${q?.id || qIdx + 1}): ${q?.question || ""}`
+            );
+            if (Array.isArray(q?.options)) {
+              q.options.forEach((opt) => {
+                const desc = opt?.description ? ` — ${opt.description}` : "";
+                lines.push(`  - [${opt?.id || ""}] ${opt?.label || ""}${desc}`);
+              });
+            }
+          });
+        }
+        if (typeof input.content === "string" && input.content.length > 0) {
+          lines.push(`content:\n${input.content}`);
+        }
+        if (typeof input.old_text === "string" || typeof input.new_text === "string") {
+          if (typeof input.old_text === "string") {
+            lines.push(`old_text:\n${input.old_text}`);
+          }
+          if (typeof input.new_text === "string") {
+            lines.push(`new_text:\n${input.new_text}`);
+          }
+        }
       }
       const output = invocation.output || invocation.result;
       if (output && typeof output === "object") {
         if (output.status) {
           lines.push(`status: ${output.status}`);
+        }
+        if (output.exit_code !== undefined && output.exit_code !== null) {
+          lines.push(`exit_code: ${output.exit_code}`);
         }
         if (Array.isArray(output.results)) {
           output.results.slice(0, 8).forEach((result, index) => {
@@ -1268,6 +1354,12 @@
           );
         } else if (output.error || output.message) {
           lines.push(`error: ${output.error || output.message}`);
+        }
+        if (typeof output.stdout === "string" && output.stdout.trim()) {
+          lines.push(`stdout:\n${output.stdout.trimEnd()}`);
+        }
+        if (typeof output.stderr === "string" && output.stderr.trim()) {
+          lines.push(`stderr:\n${output.stderr.trimEnd()}`);
         }
       }
       return lines.join("\n");
