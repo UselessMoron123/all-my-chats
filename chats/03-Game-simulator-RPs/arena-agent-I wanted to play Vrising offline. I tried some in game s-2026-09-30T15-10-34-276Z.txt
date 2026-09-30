@@ -1,0 +1,57 @@
+============================================================
+arena.ai agent chat export
+============================================================
+Title    : I wanted to play Vrising offline. I tried some in game settings, something with LAN, it probably mea…
+Type     : agentic
+Started  : 2026-09-19 01:37:48
+Updated  : 2026-09-19 01:38:24
+Messages : 2
+URL      : https://arena.ai/agent/01a0b6ab-32b9-71c9-a099-b1bc80d91040
+
+------------------------------------------------------------
+Message  : 1
+Speaker  : user
+------------------------------------------------------------
+I wanted to play Vrising offline. I tried some in game settings, something with LAN, it probably meant that I'd be playing as if on server that is my own pc. But couldn't make it work
+
+------------------------------------------------------------
+Message  : 2
+Speaker  : assistant
+------------------------------------------------------------
+Let me quickly check the current details so I don't send you down the wrong path.
+
+[tool: web_search]
+query: V Rising play offline LAN mode private game steam offline mode not working
+status: success
+1. No offline mode or server problem? :: V Rising General Discussions - https://steamcommunity.com/app/1604030/discussions/0/600768722043446553/
+2. Single-Player Offline? :: V Rising General Discussions - https://steamcommunity.com/app/1604030/discussions/0/4038104984914159265/?l=english
+3. Single player offline mode possible? :: V Rising General Discussions - https://steamcommunity.com/app/1604030/discussions/0/4358998752035332757/
+4. r/pcgaming on Reddit: V Rising adds LAN Mode (Offline mode) - https://www.reddit.com/r/pcgaming/comments/uxfp8l/v_rising_adds_lan_mode_offline_mode/
+5. PSA: Game can be played fully offline :: V Rising General Discussions - https://steamcommunity.com/app/1604030/discussions/0/4358998752032965154/
+
+Good news: V Rising *can* be played fully offline. Your understanding is right — the game always runs a tiny server (VRisingServer.exe) on your own PC and connects to it, even in "single player". The LAN checkbox just tells that local server "don't authenticate with Steam/online services", which is what makes it work without internet. [2](https://steamcommunity.com/app/1604030/discussions/0/4038104984914159265/?l=english)
+
+The catch: **the LAN toggle is notoriously buggy in the UI** — it often gets unchecked after you quit, and re-checking it in the menu sometimes doesn't actually apply. [5](https://steamcommunity.com/app/1604030/discussions/0/4358998752032965154/) That's very likely why it "didn't work" for you. Here's how to do it reliably.
+
+## Step 1 — Do the setup while still online
+1. Start Steam **while connected**, then **Steam → Go Offline**. (Do this before unplugging; Steam needs to be told to go offline while it can still talk to Valve.) [4](https://www.reddit.com/r/pcgaming/comments/uxfp8l/v_rising_adds_lan_mode_offline_mode/)
+2. Launch V Rising → **Play → Private Game → tick "LAN Server"** → choose Solo/PvE etc. → **Start New Game**. [2](https://steamcommunity.com/app/1604030/discussions/0/4038104984914159265/?l=english)
+3. For an existing save: **Load Game → Local Saves → your save → tick "LAN Server" → Host Game**. [1](https://steamcommunity.com/app/1604030/discussions/0/600768722043446553/)
+
+## Step 2 — If the LAN toggle won't stick, force it in the config file
+This is the fix that actually works when the checkbox is broken:
+
+1. Close the game.
+2. Go to `%USERPROFILE%\AppData\LocalLow\Stunlock Studios\VRising\Saves\v4\<your-save-folder>\`
+   (paste that path into Explorer's address bar; there's one folder per save/"server").
+3. Open **`ServerHostSettings.json`** in Notepad.
+4. Find `"LanMode": false` and change it to `"LanMode": true`. Save.
+5. Launch the game and load that save.
+
+## Things that trip people up
+- **Network adapter must be enabled** even with no internet. If you disable Wi-Fi/Ethernet entirely in Windows, the local server can't start ("No response from remote host" / "disconnected from server"). Just unplug the cable or disconnect from Wi-Fi instead of disabling the adapter. [1](https://steamcommunity.com/app/1604030/discussions/0/600768722043446553/)
+- **Without LAN mode, you'll get an authentication error** and be kicked to the main menu a few seconds to minutes in — that's the symptom of playing "offline" with LAN unticked. [5](https://steamcommunity.com/app/1604030/discussions/0/4358998752032965154/)
+- After a game patch, **verify game files** in Steam once (while online) before going back offline — a few players report offline breaks otherwise. [3](https://steamcommunity.com/app/1604030/discussions/0/4358998752035332757/)
+- Side effect of LAN/offline: crafting/refinement timers only tick while the game is actually running, since the "server" stops when you close the game. [5](https://steamcommunity.com/app/1604030/discussions/0/4358998752032965154/)
+
+If you tell me the exact error message you got (e.g. "disconnected from server", "no response from remote host", or auth error), I can narrow it down further.

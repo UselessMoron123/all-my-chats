@@ -1,0 +1,79 @@
+============================================================
+arena.ai chat export
+============================================================
+Title    : look how things were there (just look, don't analyse much yet)
+Mode     : direct-battle
+Started  : 2026-07-13 23:25:15
+Updated  : 2026-07-13 23:27:52
+Messages : 4
+URL      : https://arena.ai/c/019f5d26-d106-7c89-ba3a-103371dd0a35
+
+------------------------------------------------------------
+Message  : 1
+Speaker  : User
+Time     : 2026-07-13 23:25:16
+Attach   : 1 file attached
+------------------------------------------------------------
+look how things were there (just look, don't analyse much yet)
+
+------------------------------------------------------------
+Message  : 2
+Speaker  : AI A
+Time     : 2026-07-13 23:25:16
+------------------------------------------------------------
+I've taken a look. I see the map with the numbered locations and names across the different regions. I'm ready for whatever you'd like to do next.
+
+------------------------------------------------------------
+Message  : 3
+Speaker  : User
+Time     : 2026-07-13 23:27:52
+Attach   : 1 file attached
+------------------------------------------------------------
+i probably made some numbers differently in here. but i want you to write location names for numbers in here (some new dots added, ill give more names later)
+
+------------------------------------------------------------
+Message  : 4
+Speaker  : AI A
+Time     : 2026-07-13 23:27:52
+------------------------------------------------------------
+Based on the locations from the first map, here are the corresponding names for the numbers on the second map. I've noted which ones appear to be new dots without names from the previous image.
+
+1.  **Bark**
+2.  **Fishing Village**
+3.  **ShoBattai**
+4.  **Burns Tower**
+5.  **Flotsam**
+6.  **World's End**
+7.  **Stoat**
+8.  **Heft**
+9.  **Settled Nomad**
+10. **Mongrel** (Moved from #11 in the first map)
+11. **Blister Hill** (Moved from #10 in the first map)
+12. **Tengu**
+13. **Heng**
+14. **Bad Teeth**
+15. **Stack**
+16. **Black Desert City**
+17. **Waystation 1**
+18. **Eyesocket**
+19. **Dust King** (Moved from #22 in the first map)
+20. **Waystation 2** (Moved from #23 in the first map)
+21. **HUB** (Blue dot)
+22. **Tower of Abuse** (Moved from #24 in the first map)
+23. **Black Scratch** (Moved from #19 in the first map)
+24. *(New dot)*
+25. **Crab Village** (Moved from #20 in the first map)
+26. **Admag** (Moved from #25 in the first map)
+27. **Squin** (Moved from #26 in the first map)
+28. **Waystation 3** (Moved from #27 in the first map)
+29. *(New dot)*
+30. **Last Stand** (Moved from #28 in the first map)
+31. **Mud Town** (Moved from #29 in the first map)
+32. **Shark** (Moved from #30 in the first map)
+33. **Flat Lagoon** (Moved from #31 in the first map)
+34. **Mourn** (Moved from #32 in the first map)
+35. *(New dot)*
+36. **Slave Markets** (Moved from #33 in the first map)
+37. *(New dot)*
+38. *(New dot)*
+39. **Waystation 4** (Moved from #34 in the first map)

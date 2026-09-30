@@ -1,0 +1,922 @@
+============================================================
+arena.ai agent chat export
+============================================================
+Title    : Попробуй найти фанфик по пиратам карибского моря. Там был Попаданец, ему бог моря дал бессмертие/рег…
+Type     : agentic
+Started  : 2026-09-08 12:00:40
+Updated  : 2026-09-08 12:12:15
+Messages : 4
+URL      : https://arena.ai/agent/01a0803f-7b7c-7889-a3bf-e54ab08bba58
+
+------------------------------------------------------------
+Message  : 1
+Speaker  : user
+------------------------------------------------------------
+Попробуй найти фанфик по пиратам карибского моря. Там был Попаданец, ему бог моря дал бессмертие/регенерацию от морской океанской воды. И задание охранять девушку
+
+------------------------------------------------------------
+Message  : 2
+Speaker  : assistant
+------------------------------------------------------------
+[tool: web_search]
+query: фанфик Пираты Карибского моря попаданец бессмертие регенерация морская вода бог моря охранять девушку
+status: success
+1. Попаданец в Пиратов Карибского Моря ... - https://author.today/post/148300
+2. Фанфики с участием персонажей: ... - https://ficbook.net/pairings/%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%20%D0%94%D0%B6%D0%B5%D0%BA%20%D0%92%D0%BE%D1%80%D0%BE%D0%B1%D0%B5%D0%B9---%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82%20%D0%A1%D1%83%D0%BE%D0%BD%D0%BD
+3. ☼ Фанфики по "Пиратам Карибского ... - https://vk.com/topic-42742_35020665
+4. Книги пираты карибского моря читать ... - https://author.today/work/tag/%D0%BF%D0%B8%D1%80%D0%B0%D1%82%D1%8B%20%D0%BA%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%BE%D1%80%D1%8F
+5. Сборник - Пираты Карибского моря от ... - https://ficbook.net/collections/4332635
+
+[tool: web_search]
+query: ficbook Пираты Карибского моря попаданец Калипсо дар регенерация от морской воды защищать Элизабет
+status: success
+1. Пираты Карибского моря: На краю света ... - https://pirates.fandom.com/ru/wiki/%D0%9F%D0%B8%D1%80%D0%B0%D1%82%D1%8B_%D0%9A%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D1%80%D1%8F:_%D0%9D%D0%B0_%D0%BA%D1%80%D0%B0%D1%8E_%D1%81%D0%B2%D0%B5%D1%82%D0%B0
+2. Фанфики с участием персонажей: ... - https://ficbook.net/pairings/%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%20%D0%94%D0%B6%D0%B5%D0%BA%20%D0%92%D0%BE%D1%80%D0%BE%D0%B1%D0%B5%D0%B9---%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82%20%D0%A1%D1%83%D0%BE%D0%BD%D0%BD
+3. Часть 1, Свадьба ради спасения Уилла ... - https://ficbook.net/readfic/9686000
+4. ☼ Фанфики по "Пиратам Карибского ... - https://vk.com/topic-42742_35020665
+5. Фанфики по фандому Пираты Карибского моря - https://hogwartsnet.ru/mfanf/findex.php?partition=3&fandoms=6
+
+[tool: web_search]
+query: попаданец "Пираты Карибского моря" Посейдон дал бессмертие морская вода лечит раны защищать Элизабет Суонн
+status: success
+1. Пираты Карибского моря — Неолурк, ... - https://neolurk.org/wiki/%D0%9F%D0%B8%D1%80%D0%B0%D1%82%D1%8B_%D0%9A%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D1%80%D1%8F
+2. Пираты Карибского моря: Мертвецы не ... - https://tv.apple.com/ua/movie/%D0%BF%D0%B8%D1%80%D0%B0%D1%82%D1%8B-%D0%BA%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%BC%D0%BE%D1%80%D1%8F-%D0%BC%D0%B5%D1%80%D1%82%D0%B2%D0%B5%D1%86%D1%8B-%D0%BD%D0%B5-%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D1%8B%D0%B2%D0%B0%D1%8E%D1%82-%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8/umc.cmc.37lq5ervii5a58xc47u2j304w?l=ru
+3. Чем заканчивается фильм "Пираты ... - https://www.kinoafisha.info/question/filmy/chem-zakanchivaetsya-film-piraty-karibskogo-morya-mertvecy-ne-rasskazyvayut-skazki/
+4. Пираты Карибского моря: Сундук ... - https://citaty.info/movie/piraty-karibskogo-morya-sunduk-mertveca-pirates-of-the-caribbean-dead-mans-chest
+5. Список персонажей серии фильмов ... - https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%B6%D0%B5%D0%B9_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2_%C2%AB%D0%9F%D0%B8%D1%80%D0%B0%D1%82%D1%8B_%D0%9A%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D1%80%D1%8F%C2%BB
+
+[tool: web_search]
+query: author.today попаданец ПКМ "морская вода" регенерация задание бога защитить девушку фанфик
+status: success
+1. Сборник - ГГ в Режиме Бога от автора... - https://ficbook.net/collections/3583588
+2. Сборник - попаданцы, яой, древний ... - https://ficbook.net/collections/19283197
+
+[tool: web_search]
+query: фанфик попаданец в мир пиратов карибского моря телохранитель Элизабет бог моря бессмертие в воде
+status: success
+1. Попаданец в Пиратов Карибского Моря ... - https://author.today/post/148300
+2. Джек Воробей/Элизабет Суонн (Спарр... - https://fanfics.me/paring2940_2943
+3. Фанфики с участием персонажей: ... - https://ficbook.net/pairings/%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%20%D0%94%D0%B6%D0%B5%D0%BA%20%D0%92%D0%BE%D1%80%D0%BE%D0%B1%D0%B5%D0%B9---%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82%20%D0%A1%D1%83%D0%BE%D0%BD%D0%BD
+4. Сборник - Пираты Карибского моря от ... - https://ficbook.net/collections/3636397
+5. Глава 6. "Летучий Голландец", Перст ... - https://ficbook.net/readfic/11901370/30742784
+
+[tool: web_search]
+query: фанфик ПКМ попаданец "Калипсо" поручила оберегать Элизабет регенерация в морской воде бессмертный
+status: success
+1. Калипсо - https://pirates.fandom.com/ru/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D0%BF%D1%81%D0%BE
+2. Immortalia - https://ficwriter.info/proizvedeniya/1312-immortalia.html
+3. Поворот судьбы - pirates-zone.com - сайт ... - http://www.pirates-zone.com/viewtopic.php?t=484
+4. Попаданец в Пиратов Карибского Моря ... - https://author.today/post/148300
+5. Часть 1, Свадьба ради спасения Уилла ... - https://ficbook.net/readfic/9686000
+
+[tool: web_search]
+query: "Пираты Карибского моря" попаданец "Посейдон" фанфик author.today OR ficbook OR fanfics.me
+status: success
+
+[tool: web_search]
+query: попаданец пираты карибского моря "не может умереть" пока рядом море, раны затягиваются соленая вода, хранитель Элизабет
+status: success
+1. r/piratesofthecaribbean on Reddit: Pirates Of The Caribbean movies ... - https://www.reddit.com/r/piratesofthecaribbean/comments/7152u7/pirates_of_the_caribbean_movies_faq_megathread/
+2. Пираты Карибского моря — Неолурк, ... - https://neolurk.org/wiki/%D0%9F%D0%B8%D1%80%D0%B0%D1%82%D1%8B_%D0%9A%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D1%80%D1%8F
+3. Пираты Карибского Моря, часть 1. - https://m.vk.com/@volchara_elf-piraty-karibskogo-morya-chast-1
+4. Капитан Джек Воробей - https://pirates.fandom.com/ru/wiki/%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD_%D0%94%D0%B6%D0%B5%D0%BA_%D0%92%D0%BE%D1%80%D0%BE%D0%B1%D0%B5%D0%B9
+5. Гектор Барбосса — Википедия - https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BA%D1%82%D0%BE%D1%80_%D0%91%D0%B0%D1%80%D0%B1%D0%BE%D1%81%D1%81%D0%B0
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=any&fandom_group_id=1&fandom_ids[]=17&title=%D0%BF%D0%BE%D0%BF%D0%B0%D0%B4%D0%B0%D0%BD%D0%B5%D1%86
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=any&fandom_group_id=1&fandom_ids[]=17&title=%D0%BF%D0%BE%D0%BF%D0%B0%D0%B4%D0%B0%D0%BD%D0%B5%D1%86
+
+[tool: web_search]
+query: Pirates of the Caribbean SI OC fanfiction "sea god" immortality heals in seawater protect Elizabeth Swann
+status: success
+1. Pirate King Elizabeth Swann - Works - https://archiveofourown.org/tags/Pirate%20King%20Elizabeth%20Swann/works
+
+[tool: web_search]
+query: fanfics.me Пираты Карибского моря попаданец фанфик бессмертие морская вода
+status: success
+1. Попаданец в Пиратов Карибского Моря ... - https://author.today/post/148300
+2. Фанфики с участием персонажей: ... - https://ficbook.net/pairings/%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%20%D0%94%D0%B6%D0%B5%D0%BA%20%D0%92%D0%BE%D1%80%D0%BE%D0%B1%D0%B5%D0%B9---%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82%20%D0%A1%D1%83%D0%BE%D0%BD%D0%BD
+3. Джек Воробей/Элизабет Суонн (Спарр... - https://fanfics.me/paring2940_2943
+4. ☼ Фанфики по "Пиратам Карибского ... - https://vk.com/topic-42742_35020665
+5. Книги пираты карибского моря читать ... - https://author.today/work/tag/%D0%BF%D0%B8%D1%80%D0%B0%D1%82%D1%8B%20%D0%BA%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%BE%D1%80%D1%8F
+
+[tool: fetch_page]
+url: https://author.today/work/tag/%D0%BF%D0%B8%D1%80%D0%B0%D1%82%D1%8B%20%D0%BA%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%BE%D1%80%D1%8F
+status: success
+Книги пираты карибского моря читать онлайн - https://author.today/work/tag/%D0%BF%D0%B8%D1%80%D0%B0%D1%82%D1%8B%20%D0%BA%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%BE%D1%80%D1%8F
+
+[tool: web_search]
+query: author.today "Пираты Карибского моря" попаданец фанфик Элизабет Суонн телохранитель бог моря
+status: success
+1. Сборник - Пираты Карибского Моря от ... - https://ficbook.net/collections/6987301
+2. Сборник - Пираты Карибского моря от ... - https://ficbook.net/collections/3636397
+3. Пираты Карибского моря: Равновесие ... - https://ficbook.net/readfic/3252030
+4. Элизабет соул пираты карибского моря - https://xn----7sbajdchcr1bbh2akcby3ah.xn--p1ai/blog/elizabet-soul-piraty-karibskogo-morya
+5. Фанфики с участием персонажей: ... - https://ficbook.net/pairings/%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82%20%D0%A1%D1%83%D0%BE%D0%BD%D0%BD
+6. Сборник - Фанфики: Пираты Карибского ... - https://ficbook.net/collections/13533133
+7. Фанфики с участием персонажей: Уильям ... - https://ficbook.net/pairings/%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC%20%D0%A2%D1%91%D1%80%D0%BD%D0%B5%D1%80---%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82%20%D0%A1%D1%83%D0%BE%D0%BD%D0%BD
+8. История лорда Беккета и Элизабет Суон ... - https://ficbook.net/readfic/2898932
+
+[tool: fetch_page]
+url: https://author.today/work/tag/%D0%BF%D0%B8%D1%80%D0%B0%D1%82%D1%8B%20%D0%BA%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%BE%D1%80%D1%8F
+status: success
+Книги пираты карибского моря читать онлайн - https://author.today/work/tag/%D0%BF%D0%B8%D1%80%D0%B0%D1%82%D1%8B%20%D0%BA%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%BE%D1%80%D1%8F
+
+[tool: fetch_page]
+url: https://author.today/work/tag/%D0%BF%D0%B8%D1%80%D0%B0%D1%82%D1%8B%20%D0%BA%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%BE%D1%80%D1%8F
+status: success
+Книги пираты карибского моря читать онлайн - https://author.today/work/tag/%D0%BF%D0%B8%D1%80%D0%B0%D1%82%D1%8B%20%D0%BA%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%BE%D1%80%D1%8F
+
+[tool: web_search]
+query: фанфик попаданец пираты карибского моря "морской воде" раны заживают бессмертие "Элизабет" Порт-Ройял ОМП
+status: success
+1. Фанфики с участием персонажей: ... - https://ficbook.net/pairings/%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%20%D0%94%D0%B6%D0%B5%D0%BA%20%D0%92%D0%BE%D1%80%D0%BE%D0%B1%D0%B5%D0%B9---%D0%9E%D0%96%D0%9F
+2. Фанфики с участием персонажей: Ян ... - https://ficbook.net/pairings/%D0%AF%D0%BD%20%D0%9C%D1%91%D1%80%D1%81%D0%B5%D1%80
+3. Попаданец в Пиратов Карибского Моря ... - https://author.today/post/148300
+4. Фанфики с участием персонажей: Уильям ... - https://ficbook.net/pairings/%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC%20%D0%A2%D1%91%D1%80%D0%BD%D0%B5%D1%80---%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82%20%D0%A1%D1%83%D0%BE%D0%BD%D0%BD
+5. Глава XXXIV. Пиратское веселье, Дань ... - https://ficbook.net/readfic/5822433/19663528
+
+[tool: web_search]
+query: author.today фанфик "Пираты Карибского" попаданец "Калипсо" задание бессмертие
+status: success
+1. Гектор Барбосса - https://pirates.fandom.com/ru/wiki/%D0%93%D0%B5%D0%BA%D1%82%D0%BE%D1%80_%D0%91%D0%B0%D1%80%D0%B1%D0%BE%D1%81%D1%81%D0%B0
+2. Попаданец в Пиратов Карибского Моря ... - https://author.today/post/148300
+3. Глава XVI. Судьбоносный выбор, Дань ... - https://ficbook.net/readfic/5822433/15531453
+4. Часть 1, когда-то океаны буйствовали ... - https://ficbook.net/readfic/10996661/28282579
+5. Фанфики с участием персонажей: ... - https://ficbook.net/pairings/%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%20%D0%94%D0%B6%D0%B5%D0%BA%20%D0%92%D0%BE%D1%80%D0%BE%D0%B1%D0%B5%D0%B9---%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82%20%D0%A1%D1%83%D0%BE%D0%BD%D0%BD
+
+[tool: web_search]
+query: "ПКМ" попаданец фанфик "Посейдон" OR "Калипсо" OR "Нептун" дар "морская вода" исцеляет Элизабет охранять author.today OR ficbook.net OR fanfics.me OR samlib.ru
+status: success
+1. Kishir Aruano. Список фанфиков - https://samlib.ru/k/kishir_a/spisok_anime_fanfik.shtml
+2. Weeldoon. Попаданцы и вce ocтaльные бeдолаги ... - http://zhurnal.lib.ru/w/weeldoon/popadancywsehmastej2.shtml
+3. Сборник - Попаданцы, Таймтревел, ... - https://ficbook.net/collections/2460633
+4. Журнал "Самиздат".Николаев Владимир ... - http://zhurnal.lib.ru/n/nikolaew_wladimir_sergeewich/indexvote.shtml
+5. Фики - https://bookslist.me/read2.php?id=208143
+
+[tool: web_search]
+query: Pirates of the Caribbean self-insert fanfic Calypso gives immortality regeneration saltwater task protect Elizabeth Swann OC bodyguard
+status: success
+1. Pirate King Elizabeth Swann - Works - https://archiveofourown.org/tags/Pirate%20King%20Elizabeth%20Swann/works
+2. Uncle Jack (Pirates of The Caribbean) - Works - https://archiveofourown.org/tags/Uncle%20Jack%20(Pirates%20of%20The%20Caribbean)/works
+3. pirates of the Caribbean self insert series - Works - https://archiveofourown.org/collections/pirates_of_the_Caribbean_self_insert_series/works
+4. Pirates Of The Caribbean Stories - https://www.quotev.com/stories/Pirates+Of+The+Caribbean
+5. Pirates of the Caribbean (Movies) - Works - https://archiveofourown.org/tags/Pirates%20of%20the%20Caribbean%20(Movies)/works
+
+[tool: web_search]
+query: fanfiction.net OR spacebattles OR royalroad "Pirates of the Caribbean" reincarnated OC "sea god" heals in water "protect" Elizabeth
+status: success
+1. stirrings, savvy? - https://sparrow-angelica-blog.tumblr.com/fic%20recs
+2. POTC OC stories - https://www.fanfiction.net/community/POTC-OC-stories/117524/
+3. All Pirates of the Caribbean Fics List: sleepy_lotus — LiveJournal - https://sleepy-lotus.livejournal.com/7576.html
+4. Best 'Pirates of the Caribbean' Male OC Fanfiction Stories - WebNovel - https://www.webnovel.com/ask/q350529387770976
+5. r/piratesofthecaribbean on Reddit: Any good fanfics? - https://www.reddit.com/r/piratesofthecaribbean/comments/ol72q3/any_good_fanfics/
+
+[tool: web_search]
+query: фанфик "Пираты Карибского моря" попаданец Тиа Дальма поручила защищать девушку бессмертие пока рядом море ficbook
+status: success
+1. Часть 1, когда-то океаны буйствовали ... - https://ficbook.net/readfic/10996661/28282579
+2. 19. Тиа Дальма, Пираты Карибского моря: ... - https://ficbook.net/readfic/7277396/19931599
+3. Сборник - Пираты Карибского моря от ... - https://ficbook.net/collections/3636397
+4. Фанфики с участием персонажей: Уильям ... - https://ficbook.net/pairings/%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC%20%D0%A2%D1%91%D1%80%D0%BD%D0%B5%D1%80---%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82%20%D0%A1%D1%83%D0%BE%D0%BD%D0%BD
+5. Часть 3, Яблоко раздора — фанфик по ... - https://ficbook.net/readfic/0199832b-ddab-7b1b-baa4-af846eab06d6/40633791
+
+[tool: fetch_page]
+url: https://ficbook.net/fanfiction/movies_and_tv_series/pirates_of_the_caribbean?tags%5B%5D=%D0%9F%D0%BE%D0%BF%D0%B0%D0%B4%D0%B0%D0%BD%D1%86%D1%8B
+status: success
+    404 — Страница не найдена | Книга Фанфиков
+ - https://ficbook.net/fanfiction/movies_and_tv_series/pirates_of_the_caribbean?tags%5B%5D=%D0%9F%D0%BE%D0%BF%D0%B0%D0%B4%D0%B0%D0%BD%D1%86%D1%8B
+
+[tool: web_search]
+query: ficbook.net readfic "Пираты Карибского моря" "Попаданцы" "ОМП" бессмертие Элизабет Суонн джен приключения регенерация
+status: success
+1. Фанфики с участием персонажей: ... - https://ficbook.net/pairings/%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%20%D0%93%D0%B5%D0%BA%D1%82%D0%BE%D1%80%20%D0%91%D0%B0%D1%80%D0%B1%D0%BE%D1%81%D1%81%D0%B0
+
+[tool: web_search]
+query: "Пиратская Жизнь" "Том 1" "Проклятие Чёрной Жемчужины" ficbook Элизабет Суонн/ОМП
+status: success
+1. Глава 2: Капитан Джек Воробей, Пират... - https://ficbook.net/readfic/018bfd03-1e12-72a9-9597-7a67806d3bcd/36325099
+
+[tool: fetch_page]
+url: https://ficbook.net/pairings/%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82%20%D0%A1%D1%83%D0%BE%D0%BD%D0%BD---%D0%9E%D0%9C%D0%9F
+status: success
+Фанфики с участием персонажей: Элизабет Суонн ОМП - https://ficbook.net/pairings/%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82%20%D0%A1%D1%83%D0%BE%D0%BD%D0%BD---%D0%9E%D0%9C%D0%9F
+
+[tool: fetch_page]
+url: https://ficbook.net/fanfiction/movies_and_tv_series/pirati_karibskogo_morja?tags%5B%5D=1652&tags%5B%5D=1656
+status: success
+Пираты Карибского моря / Pirates of the Caribbean / Серия фильмов, 2003-2017 - Фанфики по фэндому (Фильмы и сериалы) - https://ficbook.net/fanfiction/movies_and_tv_series/pirati_karibskogo_morja?tags%5B%5D=1652&tags%5B%5D=1656
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1652&sort=1
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1652&sort=1
+
+[tool: web_search]
+query: ficbook.net tags "Попаданчество" Пираты Карибского моря джен ОМП "попаданец" бессмертие море
+status: success
+1. Сборник - ван-пис от автораВАРЯГА - https://ficbook.net/collections/3615700
+2. Сборник - Много вселенных от автора... - https://ficbook.net/collections/29602331
+3. Сборник - попаданцы в Блеков (кроме ... - https://ficbook.net/collections/5889760
+4. Гендерсвап — фанфики и ориджиналы ... - https://ficbook.net/tags/1691
+5. Сборник - Попаданцы от автораДюша Ли - https://ficbook.net/collections/23814661
+
+[tool: web_search]
+query: ficbook.net/tags Попаданчество метка
+status: success
+1. Попаданцы: В реальный мир — фанфики ... - https://ficbook.net/tags/1499
+2. Метки — фанфики и ориджиналы на тему: ... - https://ficbook.net/tags/1398
+3. ~, Как ставить метки на фикбуке — ... - https://ficbook.net/readfic/018d91d7-15aa-77b0-a3d2-530010609a72
+
+[tool: fetch_page]
+url: https://ficbook.net/tags/1500
+status: success
+    404 — Страница не найдена | Книга Фанфиков
+ - https://ficbook.net/tags/1500
+
+[tool: fetch_page]
+url: https://ficbook.net/tags/1501
+status: success
+    Упоминания убийств — фанфики и ориджиналы
+            на тему:
+                    Неподробные описания убийства,                     Упоминание убийства             - https://ficbook.net/tags/1501
+
+[tool: fetch_page]
+url: https://ficbook.net/tags/1498
+status: success
+    Патологическое бесстрашие — фанфики и ориджиналы
+            на тему:
+                    Отсутствие страха,                     Болезнь Урбаха-Витте             - https://ficbook.net/tags/1498
+
+Tag "Попаданчество" = 1695. Let me search Ficbook's PotC fandom filtered by that tag.
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1
+
+[tool: bash]
+command: cd /home/user && for p in 1 2 3 4; do curl -sL -A "Mozilla/5.0" "https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=$p" -o fb_$p.html; done; ls -la fb_*.html; python3 - <<'EOF'
+import re,html
+for p in range(1,5):
+    s=open(f'fb_{p}.html',encoding='utf-8',errors='ignore').read()
+    # extract titles, links, and descriptions
+    items=re.findall(r'<h3 class="fanfic-inline-title">.*?<a[^>]*href="([^"]+)"[^>]*>(.*?)</a>.*?<div class="fanfic-description[^"]*"[^>]*>(.*?)</div>',s,re.S)
+    print("PAGE",p,len(items))
+    for href,title,desc in items:
+        desc=re.sub('<[^>]+>','',desc); desc=html.unescape(desc).strip()
+        print("-",html.unescape(title).strip(),"|",href.split('?')[0],"\n   ",desc[:400].replace("\n"," "))
+EOF
+status: completed
+exit_code: 0
+stdout:
+-rw-r--r-- 1 user user 32351 Sep  8 09:03 fb_1.html
+-rw-r--r-- 1 user user 32351 Sep  8 09:03 fb_2.html
+-rw-r--r-- 1 user user 32351 Sep  8 09:03 fb_3.html
+-rw-r--r-- 1 user user 32351 Sep  8 09:03 fb_4.html
+PAGE 1 0
+PAGE 2 0
+PAGE 3 0
+PAGE 4 0
+
+[tool: bash]
+command: cd /home/user && head -c 1500 fb_1.html; echo; grep -o '<title>[^<]*' fb_1.html
+status: completed
+exit_code: 0
+stdout:
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8"/>
+    <title>Проверка безопасности | Книга Фанфиков</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="https://ficbook.net/favicon-32x32.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <style>
+        html, body {
+            background-color: #FAF5EA;
+            padding: 0;
+            margin: 0;
+            font-family: Verdana, sans-serif;
+            color: #3a3a3a;
+            font-size: 16px;
+            text-align: center;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 666px;
+            margin: auto;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 24px;
+            padding: 0 15px;
+        }
+
+        h1 {
+            font-weight: 700;
+            font-size: 24px;
+            margin: 0;
+        }
+
+        p {
+            font-size: 16px;
+            margin: 0;
+        }
+
+        .logo svg {
+            width: 205px;
+            height: 50px;
+        }
+
+        .copyright {
+            text-align: center;
+        }
+
+        .error-box {
+            padding: 10px;
+            background: #f6ecda;
+            border-radius: 4px;
+            font-family: monaco, courier, monospace;
+            font-size: 14px;
+        }
+
+        .error-box .error-client {
+<title>Проверка безопасности | Книга Фанфиков
+
+Bot protection blocks curl; I'll page through via fetch_page instead.
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=2
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=2
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=2
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=2
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=2
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=2
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=2
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=2
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=2
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=2
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=2
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=2
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=2
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=2
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=2
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=2
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=3
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=3
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=3
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=3
+
+[tool: fetch_page]
+url: https://author.today/work/349389
+status: success
+Дьявол Дейви. - Fiks - читать книгу в онлайн-библиотеке / Опубликовано: 10 май. 2024 в 21:09 - https://author.today/work/349389
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=3
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=3
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=3
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=3
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=3
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=3
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=3
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=3
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=3
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=3
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=3
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=3
+
+[tool: fetch_page]
+url: https://ficbook.net/readfic/01923872-a037-73ad-9cdd-e375a1f0c44a
+status: success
+Убегая от Смерти / Попаданец в Пиратов Карибского Моря — фанфик по фэндому «Пираты Карибского моря» - https://ficbook.net/readfic/01923872-a037-73ad-9cdd-e375a1f0c44a
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=4
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=4
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=4
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=4
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=4
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=4
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=4
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=4
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=4
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=4
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=4
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=4
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=4
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=4
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=4
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=4
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=4
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=4
+
+------------------------------------------------------------
+Message  : 3
+Speaker  : assistant
+------------------------------------------------------------
+[tool: web_search]
+query: фанфик Пираты Карибского моря попаданец "Калипсо" бессмертие "морская вода" раны затягиваются охранять девушку
+status: success
+1. Глава 6. "Летучий Голландец", Перст ... - https://ficbook.net/readfic/11901370/30742784
+2. Часть 1, когда-то океаны буйствовали ... - https://ficbook.net/readfic/10996661/28282579
+3. ПКМ - Убегая от Смерти - Oldbush, Евгений ... - https://author.today/work/361699
+4. Фанфики с участием персонажей: ... - https://ficbook.net/pairings/%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%20%D0%94%D0%B6%D0%B5%D0%BA%20%D0%92%D0%BE%D1%80%D0%BE%D0%B1%D0%B5%D0%B9---%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82%20%D0%A1%D1%83%D0%BE%D0%BD%D0%BD
+5. ☼ Фанфики по "Пиратам Карибского ... - https://vk.com/topic-42742_35020665
+
+[tool: web_search]
+query: фанфик ПКМ попаданец бог моря дар "не могу умереть" вода океана исцеляет "Суонн" защищать
+status: success
+1. Immortalia - https://ficwriter.info/proizvedeniya/1312-immortalia.html
+2. Попаданец в Пиратов Карибского Моря ... - https://author.today/post/148300
+3. Качественный перевод фанфиков на ... - https://tl.rulate.ru/search?cat=19
+4. Проблески жизни, Повелитель костей ... - https://ficbook.net/readfic/01958141-11f0-70e9-b3a6-3945ac008343/40909562
+5. Седрик. Список фанфиков с моими ... - https://samlib.ru/s/sedrik/spisokfanfikowsmoimikommentarijami.shtml
+
+[tool: web_search]
+query: fanfics.me Пираты Карибского моря попаданец ОМП бог моря телохранитель
+status: success
+1. Фанфики с участием персонажей: Ян ... - https://ficbook.net/pairings/%D0%AF%D0%BD%20%D0%9C%D1%91%D1%80%D1%81%D0%B5%D1%80
+2. Фанфики с участием персонажей: ... - https://ficbook.net/pairings/%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%20%D0%94%D0%B6%D0%B5%D0%BA%20%D0%92%D0%BE%D1%80%D0%BE%D0%B1%D0%B5%D0%B9---%D0%9E%D0%96%D0%9F
+3. Фанфики с участием персонажей: Терри ... - https://ficbook.net/pairings/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%20%D0%A0%D0%B0%D0%B4%D0%B6%D0%B5%D1%82%D1%82%D0%B8
+4. Попаданец в Пиратов Карибского Моря ... - https://author.today/post/148300
+5. Фанфики с участием персонажей: Лорд ... - https://ficbook.net/pairings/%D0%9B%D0%BE%D1%80%D0%B4%20%D0%9A%D0%B0%D1%82%D0%BB%D0%B5%D1%80%20%D0%91%D0%B5%D0%BA%D0%BA%D0%B5%D1%82
+
+[tool: fetch_page]
+url: https://author.today/work/361699
+status: success
+ПКМ - Убегая от Смерти - Oldbush, Евгений Год  - читать книгу в онлайн-библиотеке / Опубликовано: 25 сен. 2024 в 13:42 - https://author.today/work/361699
+
+[tool: web_search]
+query: author.today фанфик "Пираты Карибского моря" попаданец "бессмертие" богиня моря "оберегать" OR "защищать" OR "охранять" девушку задание
+status: success
+1. Книги пираты карибского моря читать ... - https://author.today/work/tag/%D0%BF%D0%B8%D1%80%D0%B0%D1%82%D1%8B%20%D0%BA%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%BE%D1%80%D1%8F
+2. Попаданец в Пиратов Карибского Моря ... - https://author.today/post/148300
+3. ☼ Фанфики по "Пиратам Карибского ... - https://vk.com/topic-42742_35020665
+4. Фанфики по фандому Пираты Карибского моря - https://hogwartsnet.ru/mfanf/findex.php?partition=3&fandoms=6
+5. Фанфики с участием персонажей: Терри ... - https://ficbook.net/pairings/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%20%D0%A0%D0%B0%D0%B4%D0%B6%D0%B5%D1%82%D1%82%D0%B8
+
+[tool: web_search]
+query: фанфик пираты карибского моря попаданец "регенерация" "морской воде" бог OR богиня "Элизабет"
+status: success
+1. Джек Воробей/Элизабет Суонн (Спарр... - https://fanfics.me/paring2940_2943
+2. Фанфики с участием персонажей: Джеймс ... - https://ficbook.net/pairings/%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81%20%D0%9D%D0%BE%D1%80%D1%80%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD---%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82%20%D0%A1%D1%83%D0%BE%D0%BD%D0%BD
+3. Элизабет Суонн / Elizabeth Swann - https://fanfics.me/character2943
+4. Сборник - Пираты Карибского моря( Джек ... - https://ficbook.net/collections/5755816
+5. Фанфики с участием персонажей: Уильям ... - https://ficbook.net/pairings/%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC%20%D0%A2%D1%91%D1%80%D0%BD%D0%B5%D1%80---%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82%20%D0%A1%D1%83%D0%BE%D0%BD%D0%BD
+
+[tool: web_search]
+query: самиздат OR литнет OR фанфикус "Пираты Карибского моря" попаданец Посейдон OR Нептун "бессмертие" телохранитель Элизабет Суонн
+status: success
+1. Фанфики с участием персонажей: Терри ... - https://ficbook.net/pairings/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%20%D0%A0%D0%B0%D0%B4%D0%B6%D0%B5%D1%82%D1%82%D0%B8
+2. Джек Воробей/Элизабет Суонн (Спарр... - https://fanfics.me/paring2940_2943
+3. Фанфики с участием персонажей: Джеймс ... - https://ficbook.net/pairings/%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81%20%D0%9D%D0%BE%D1%80%D1%80%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD---%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82%20%D0%A1%D1%83%D0%BE%D0%BD%D0%BD
+4. Уилльям Тёрнер/Элизабет Суонн - https://fanfics.me/paring2942_2943
+5. Сборник - Фанфики: Пираты Карибского ... - https://ficbook.net/collections/13533133
+
+[tool: fetch_page]
+url: https://author.today/reader/361699/3337513
+status: success
+Книга ПКМ - Убегая от Смерти, Глава 1 - Попадос, Oldbush, Евгений Год  читать онлайн - https://author.today/reader/361699/3337513
+
+[tool: fetch_page]
+url: https://ficbook.net/readfic/01923872-a037-73ad-9cdd-e375a1f0c44a/38464252
+status: success
+Глава 1 - Попадос, Убегая от Смерти / Попаданец в Пиратов Карибского Моря — фанфик по фэндому «Пираты Карибского моря» - https://ficbook.net/readfic/01923872-a037-73ad-9cdd-e375a1f0c44a/38464252
+
+[tool: fetch_page]
+url: https://ficbook.net/readfic/01923872-a037-73ad-9cdd-e375a1f0c44a/38464252
+status: success
+Глава 1 - Попадос, Убегая от Смерти / Попаданец в Пиратов Карибского Моря — фанфик по фэндому «Пираты Карибского моря» - https://ficbook.net/readfic/01923872-a037-73ad-9cdd-e375a1f0c44a/38464252
+
+[tool: fetch_page]
+url: https://ficbook.net/readfic/01923872-a037-73ad-9cdd-e375a1f0c44a/38464252
+status: success
+Глава 1 - Попадос, Убегая от Смерти / Попаданец в Пиратов Карибского Моря — фанфик по фэндому «Пираты Карибского моря» - https://ficbook.net/readfic/01923872-a037-73ad-9cdd-e375a1f0c44a/38464252
+
+[tool: fetch_page]
+url: https://fanfics.me/fandom167
+status: success
+Чародейки - https://fanfics.me/fandom167
+
+[tool: web_search]
+query: fanfics.me фандом "Пираты Карибского моря" жанр Попаданцы "Новый Мужской Персонаж" Элизабет Суонн
+status: success
+
+[tool: fetch_page]
+url: https://fanfics.me/character2943
+status: success
+Элизабет Суонн / Elizabeth Swann | Пираты Карибского моря - https://fanfics.me/character2943
+
+[tool: fetch_page]
+url: https://fanfics.me/find?fandom=42&genre=popadanci
+status: success
+Поиск фанфиков - https://fanfics.me/find?fandom=42&genre=popadanci
+
+[tool: fetch_page]
+url: https://fanfics.me/fandom42/fics
+status: success
+Фанфики | Пираты Карибского моря - https://fanfics.me/fandom42/fics
+
+[tool: fetch_page]
+url: https://fanfics.me/fandom42/fics?sort=size
+status: success
+Фанфики | Пираты Карибского моря - https://fanfics.me/fandom42/fics?sort=size
+
+[tool: fetch_page]
+url: https://fanfics.me/fandom42/fics?sort=size
+status: success
+Фанфики | Пираты Карибского моря - https://fanfics.me/fandom42/fics?sort=size
+
+[tool: fetch_page]
+url: https://fanfics.me/fandom42/fics?sort=size
+status: success
+Фанфики | Пираты Карибского моря - https://fanfics.me/fandom42/fics?sort=size
+
+[tool: web_search]
+query: tl.rulate.ru Пираты Карибского моря попаданец бог моря бессмертие регенерация морская вода
+status: success
+1. Попаданец в Пиратов Карибского Моря ... - https://author.today/post/148300
+2. Калипсо - https://pirates.fandom.com/ru/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D0%BF%D1%81%D0%BE
+3. Пираты карибского моря-5 живая вода ... - https://www.proza.ru/2013/08/05/2125
+4. Пираты Карибского моря: На странных ... - https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%80%D0%B0%D1%82%D1%8B_%D0%9A%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D1%80%D1%8F:_%D0%9D%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%B0%D1%85
+5. Пираты Карибского Моря читать онлайн: ... - https://tl.rulate.ru/book/17306
+
+[tool: web_search]
+query: рулейт "Пираты Карибского моря" перевод новелла главный герой переродился Посейдон OR "бог моря" защищать Элизабет
+status: success
+1. Пираты Карибского моря. Мертвецы не ... - https://flibusta.su/book/83438-piratyi-karibskogo-morya-mertvetsyi-ne-rasskazyivayut-skazki/read/
+2. Все, что мы можем рассказать о новом ... - https://www.film.ru/articles/karibskaya-dinastiya
+
+[tool: web_search]
+query: samlib.ru "Пираты Карибского моря" попаданец бессмертие морская вода Калипсо задание защищать
+status: success
+1. Руководство и прохождение по "Пираты ... - https://www.igromania.ru/article/12085/Rukovodstvo_i_prohozhdenie_po_Piraty_Karibskogo_morya_Na_krayu_sveta.html
+2. Капитан Джек Воробей: все о персонаже ... - https://kino.mail.ru/news/85543-kapitan-dzhek-vorobej/
+3. Пираты Карибского моря — Неолурк, ... - https://neolurk.org/wiki/%D0%9F%D0%B8%D1%80%D0%B0%D1%82%D1%8B_%D0%9A%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D1%80%D1%8F
+4. Прохождение "Пираты Карибского моря" ... - http://www.gamer.ru/piraty-karibskogo-morya/prohozhdenie-piraty-karibskogo-morya
+5. Смит Игорь Сергеевич. Справочник: ... - http://samlib.ru/s/smit_i_s/ppaau1.shtml
+
+[tool: fetch_page]
+url: https://tl.rulate.ru/book/17306
+status: success
+Ранобэ Пираты Карибского Моря - читать онлайн | Rulate - https://tl.rulate.ru/book/17306
+
+[tool: web_search]
+query: tl.rulate.ru "Пираты Карибского" попаданец новелла "морская вода" OR "море исцеляет" OR "бессмертен в море" охранять "Элизабет"
+status: success
+1. Пираты Карибского моря — Неолурк, ... - https://neolurk.org/wiki/%D0%9F%D0%B8%D1%80%D0%B0%D1%82%D1%8B_%D0%9A%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D1%80%D1%8F
+2. Пираты Карибского моря: Проклятие ... - https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%80%D0%B0%D1%82%D1%8B_%D0%9A%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D1%80%D1%8F:_%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D0%B8%D0%B5_%D0%A7%D1%91%D1%80%D0%BD%D0%BE%D0%B9_%D0%B6%D0%B5%D0%BC%D1%87%D1%83%D0%B6%D0%B8%D0%BD%D1%8B
+3. Фанфики с участием персонажей: Джеймс ... - https://ficbook.net/pairings/%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81%20%D0%9D%D0%BE%D1%80%D1%80%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD---%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82%20%D0%A1%D1%83%D0%BE%D0%BD%D0%BD
+4. Пираты Карибского моря: День в море ... - https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%80%D0%B0%D1%82%D1%8B_%D0%9A%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D1%80%D1%8F:_%D0%94%D0%B5%D0%BD%D1%8C_%D0%B2_%D0%BC%D0%BE%D1%80%D0%B5
+5. Читать онлайн "Пираты Карибского ... - https://www.rulit.me/books/piraty-karibskogo-morya-proklyatie-chernoj-zhemchuzhiny-lp-polnaya-versiya-scenariya-read-601996-1.html
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=5
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=5
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=5
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=5
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=5
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=5
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=5
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=5
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=5
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=5
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=5
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=5
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=5
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=5
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=5
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=5
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=5
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1695&sort=1&p=5
+
+[tool: fetch_page]
+url: https://author.today/search?category=works&q=%D0%BF%D0%B8%D1%80%D0%B0%D1%82%D1%8B+%D0%BA%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE+%D0%BC%D0%BE%D1%80%D1%8F+%D0%BF%D0%BE%D0%BF%D0%B0%D0%B4%D0%B0%D0%BD%D0%B5%D1%86
+status: success
+Поиск произведений по запросу пираты карибского моря попаданец - https://author.today/search?category=works&q=%D0%BF%D0%B8%D1%80%D0%B0%D1%82%D1%8B+%D0%BA%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE+%D0%BC%D0%BE%D1%80%D1%8F+%D0%BF%D0%BE%D0%BF%D0%B0%D0%B4%D0%B0%D0%BD%D0%B5%D1%86
+
+[tool: fetch_page]
+url: https://author.today/work/tag/%D0%B4%D0%B6%D0%B5%D0%BA%20%D0%B2%D0%BE%D1%80%D0%BE%D0%B1%D0%B5%D0%B9
+status: success
+Книги джек воробей читать онлайн - https://author.today/work/tag/%D0%B4%D0%B6%D0%B5%D0%BA%20%D0%B2%D0%BE%D1%80%D0%BE%D0%B1%D0%B5%D0%B9
+
+------------------------------------------------------------
+Message  : 4
+Speaker  : assistant
+------------------------------------------------------------
+[tool: fetch_page]
+url: https://author.today/search?category=works&q=%D0%BF%D0%B8%D1%80%D0%B0%D1%82%D1%8B+%D0%BA%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE+%D0%BC%D0%BE%D1%80%D1%8F+%D0%BF%D0%BE%D0%BF%D0%B0%D0%B4%D0%B0%D0%BD%D0%B5%D1%86
+status: success
+Поиск произведений по запросу пираты карибского моря попаданец - https://author.today/search?category=works&q=%D0%BF%D0%B8%D1%80%D0%B0%D1%82%D1%8B+%D0%BA%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE+%D0%BC%D0%BE%D1%80%D1%8F+%D0%BF%D0%BE%D0%BF%D0%B0%D0%B4%D0%B0%D0%BD%D0%B5%D1%86
+
+[tool: fetch_page]
+url: https://author.today/search?category=works&q=%D0%BF%D0%B8%D1%80%D0%B0%D1%82%D1%8B+%D0%BA%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE+%D0%BC%D0%BE%D1%80%D1%8F+%D0%BF%D0%BE%D0%BF%D0%B0%D0%B4%D0%B0%D0%BD%D0%B5%D1%86
+status: success
+Поиск произведений по запросу пираты карибского моря попаданец - https://author.today/search?category=works&q=%D0%BF%D0%B8%D1%80%D0%B0%D1%82%D1%8B+%D0%BA%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE+%D0%BC%D0%BE%D1%80%D1%8F+%D0%BF%D0%BE%D0%BF%D0%B0%D0%B4%D0%B0%D0%BD%D0%B5%D1%86
+
+[tool: fetch_page]
+url: https://author.today/work/tag/%D0%B4%D0%B6%D0%B5%D0%BA%20%D0%B2%D0%BE%D1%80%D0%BE%D0%B1%D0%B5%D0%B9
+status: success
+Книги джек воробей читать онлайн - https://author.today/work/tag/%D0%B4%D0%B6%D0%B5%D0%BA%20%D0%B2%D0%BE%D1%80%D0%BE%D0%B1%D0%B5%D0%B9
+
+[tool: fetch_page]
+url: https://author.today/search?category=works&q=%D0%BF%D0%B8%D1%80%D0%B0%D1%82%D1%8B+%D0%BA%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE+%D0%BC%D0%BE%D1%80%D1%8F+%D0%BF%D0%BE%D0%BF%D0%B0%D0%B4%D0%B0%D0%BD%D0%B5%D1%86
+status: success
+Поиск произведений по запросу пираты карибского моря попаданец - https://author.today/search?category=works&q=%D0%BF%D0%B8%D1%80%D0%B0%D1%82%D1%8B+%D0%BA%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE+%D0%BC%D0%BE%D1%80%D1%8F+%D0%BF%D0%BE%D0%BF%D0%B0%D0%B4%D0%B0%D0%BD%D0%B5%D1%86
+
+[tool: fetch_page]
+url: https://author.today/work/621478
+status: success
+Система Пиратов Карибского Моря - Сим Симович, AI Caesar - читать книгу в онлайн-библиотеке / Опубликовано: 16 июл. 2026 в 15:55 - https://author.today/work/621478
+
+[tool: web_search]
+query: фанфик попаданец пират "морская вода" лечит раны бессмертный богиня задание охранять девушку "Черная жемчужина"
+status: success
+1. Часть 1, Легенда Дейви Джонса — фанфик ... - https://ficbook.net/readfic/2703312
+2. Infenior21. Читабельно - https://samlib.ru/i/infenior21/spisokknigifanfikowboleemeneechitabelnyhdljamenja.shtml
+3. Ранобэ и новеллы читать онлайн на ... - https://tl.rulate.ru/
+4. Книги игра престолов читать онлайн - https://author.today/work/tag/%D0%B8%D0%B3%D1%80%D0%B0%20%D0%BF%D1%80%D0%B5%D1%81%D1%82%D0%BE%D0%BB%D0%BE%D0%B2
+5. Аниме про попаданцев / Коллекции - https://shikimori.io/collections/1642-anime-pro-popadantsev
+
+[tool: web_search]
+query: ficbook Пираты Карибского моря ОМП попаданец Калипсо дар бессмертие "океан" исцеляет защитить дочь губернатора
+status: success
+1. Часть 1, когда-то океаны буйствовали ... - https://ficbook.net/readfic/10996661/28282579
+
+[tool: web_search]
+query: "Пираты Карибского моря" фанфик попаданец "Посейдон" OR "Нептун" даровал бессмертие защищать Элизабет Суонн ОМП
+status: success
+1. Фанфики с участием персонажей: Джеймс ... - https://ficbook.net/pairings/%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81%20%D0%9D%D0%BE%D1%80%D1%80%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD
+2. Фанфики с участием персонажей: Терри ... - https://ficbook.net/pairings/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%20%D0%A0%D0%B0%D0%B4%D0%B6%D0%B5%D1%82%D1%82%D0%B8
+3. Джек Воробей/Элизабет Суонн (Спарр... - https://fanfics.me/paring2940_2943
+4. Сборник - Фанфики: Пираты Карибского ... - https://ficbook.net/collections/13533133
+5. Уилльям Тёрнер/Элизабет Суонн - https://fanfics.me/paring2942_2943
+
+[tool: fetch_page]
+url: https://fanfics.me/fandom42/fics?sort=size
+status: success
+Фанфики | Пираты Карибского моря - https://fanfics.me/fandom42/fics?sort=size
+
+[tool: fetch_page]
+url: https://fanfics.me/fandom42/fics?sort=size
+status: success
+Фанфики | Пираты Карибского моря - https://fanfics.me/fandom42/fics?sort=size
+
+[tool: fetch_page]
+url: https://fanfics.me/fandom42/fics?sort=size
+status: success
+Фанфики | Пираты Карибского моря - https://fanfics.me/fandom42/fics?sort=size
+
+[tool: fetch_page]
+url: https://ficbook.net/readfic/9614191
+status: success
+Стать морем — фанфик по фэндому «Пираты Карибского моря» - https://ficbook.net/readfic/9614191
+
+[tool: fetch_page]
+url: https://ficbook.net/readfic/5016590
+status: success
+Талисман Барона — фанфик по фэндому «Пираты Карибского моря» - https://ficbook.net/readfic/5016590
+
+[tool: fetch_page]
+url: https://ficbook.net/readfic/9614191/24709757
+status: success
+Часть 1, Стать морем — фанфик по фэндому «Пираты Карибского моря» - https://ficbook.net/readfic/9614191/24709757
+
+[tool: fetch_page]
+url: https://ficbook.net/readfic/5016590/12942205
+status: success
+I, Талисман Барона — фанфик по фэндому «Пираты Карибского моря» - https://ficbook.net/readfic/5016590/12942205
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1412&sort=1&p=1
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1412&sort=1&p=1
+
+[tool: fetch_page]
+url: https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1413&sort=1&p=1
+status: success
+Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов - https://ficbook.net/find-fanfics-846555?fandom_filter=fandom&fandom_group_id=2&fandom_ids[]=1277&tags_include[]=1413&sort=1&p=1
+
+[tool: fetch_page]
+url: https://author.today/search?category=works&q=%D0%94%D0%B6%D0%B5%D0%BA+%D0%92%D0%BE%D1%80%D0%BE%D0%B1%D0%B5%D0%B9+%D0%BF%D0%BE%D0%BF%D0%B0%D0%B4%D0%B0%D0%BD%D0%B5%D1%86+%D0%B1%D0%B5%D1%81%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8%D0%B5
+status: success
+Поиск произведений по запросу Джек Воробей попаданец бессмертие - https://author.today/search?category=works&q=%D0%94%D0%B6%D0%B5%D0%BA+%D0%92%D0%BE%D1%80%D0%BE%D0%B1%D0%B5%D0%B9+%D0%BF%D0%BE%D0%BF%D0%B0%D0%B4%D0%B0%D0%BD%D0%B5%D1%86+%D0%B1%D0%B5%D1%81%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8%D0%B5
+
+[tool: fetch_page]
+url: https://author.today/search?category=works&q=%D0%9A%D0%B0%D0%BB%D0%B8%D0%BF%D1%81%D0%BE+%D0%BF%D0%BE%D0%BF%D0%B0%D0%B4%D0%B0%D0%BD%D0%B5%D1%86
+status: success
+Поиск произведений по запросу Калипсо попаданец - https://author.today/search?category=works&q=%D0%9A%D0%B0%D0%BB%D0%B8%D0%BF%D1%81%D0%BE+%D0%BF%D0%BE%D0%BF%D0%B0%D0%B4%D0%B0%D0%BD%D0%B5%D1%86
+
+[tool: fetch_page]
+url: https://ficbook.net/readfic/01923872-a037-73ad-9cdd-e375a1f0c44a
+status: success
+Убегая от Смерти / Попаданец в Пиратов Карибского Моря — фанфик по фэндому «Пираты Карибского моря» - https://ficbook.net/readfic/01923872-a037-73ad-9cdd-e375a1f0c44a
+
+[tool: fetch_page]
+url: https://ficbook.net/readfic/01923872-a037-73ad-9cdd-e375a1f0c44a/38495012
+status: success
+Глава 9 - Ведьма, Убегая от Смерти / Попаданец в Пиратов Карибского Моря — фанфик по фэндому «Пираты Карибского моря» - https://ficbook.net/readfic/01923872-a037-73ad-9cdd-e375a1f0c44a/38495012
+
+[tool: fetch_page]
+url: https://ficbook.net/readfic/01923872-a037-73ad-9cdd-e375a1f0c44a/38974812
+status: success
+Глава 25 - Кто проживает на дне океана?, Убегая от Смерти / Попаданец в Пиратов Карибского Моря — фанфик по фэндому «Пираты Карибского моря» - https://ficbook.net/readfic/01923872-a037-73ad-9cdd-e375a1f0c44a/38974812
+
+[tool: fetch_page]
+url: https://fanfics.me/fandom42/fics?sort=size&page=2
+status: success
+Фанфики | Пираты Карибского моря - https://fanfics.me/fandom42/fics?sort=size&page=2
+
+[tool: fetch_page]
+url: https://fanfics.me/fandom42/fics?sort=size&page=2
+status: success
+Фанфики | Пираты Карибского моря - https://fanfics.me/fandom42/fics?sort=size&page=2
+
+[tool: fetch_page]
+url: https://fanfics.me/fandom42/fics?sort=size&page=2
+status: success
+Фанфики | Пираты Карибского моря - https://fanfics.me/fandom42/fics?sort=size&page=2
+
+[tool: fetch_page]
+url: https://fanfics.me/fandom42/fics?sort=size&page=2
+status: success
+Фанфики | Пираты Карибского моря - https://fanfics.me/fandom42/fics?sort=size&page=2
+
+[tool: web_search]
+query: Pirates of the Caribbean SI OC fanfic sea god granted immortality heals in seawater task protect Elizabeth Swann
+status: success
+1. stirrings, savvy? - https://sparrow-angelica-blog.tumblr.com/fic%20recs
+2. Potc Stories - Wattpad - https://www.wattpad.com/stories/potc
+3. Pirate King Elizabeth Swann - Works - https://archiveofourown.org/tags/Pirate%20King%20Elizabeth%20Swann/works
+4. A Mermaid with legs, a pirates of the caribbean fanfic - https://www.fanfiction.net/s/12559468/1/A-Mermaid-with-legs
+5. Pirates Of The Caribbean - FindingFreedom - Wattpad - https://www.wattpad.com/list/297260670-pirates-of-the-caribbean
+
+[tool: web_search]
+query: фанфик ПКМ попаданец "хранитель" Элизабет "морской бог" OR "богиня моря" дар "вода" залечивает раны бессмертный телохранитель дочери губернатора
+status: success
+1. ГГ - попаданец в аниме - 21 - обсуждение ... - https://www.kubikus.ru/forum/topic.asp?TOPIC_ID=12972&FORUM_ID=48&CAT_ID=5&Topic_Title=%EF%BF%BD%EF%BF%BD+-+%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD+%EF%BF%BD+%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD+-+21&Forum_Title=+&whichpage=11
+2. ГГ - попаданец в аниме - обсуждение в ... - https://www.kubikus.ru/forum/topic.asp?TOPIC_ID=7508&FORUM_ID=48&CAT_ID=5
+3. Книжная полка Прочитать - https://fantlab.ru/bookcase41616?sort=by_nameorig
+4. Infenior21. Читабельно - https://samlib.ru/i/infenior21/spisokknigifanfikowboleemeneechitabelnyhdljamenja.shtml
+5. Фанфики с участием персонажей: ... - https://ficbook.net/pairings/%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82%20%D0%A1%D1%83%D0%BE%D0%BD%D0%BD
+
+Я закончил проверку всех доступных источников — итог ниже.
+
+## Что проверено
+
+- **Ficbook**: весь расширенный поиск по фэндому «Пираты Карибского моря» + метка «Попаданчество» — все 5 страниц (≈100 работ), плюс отдельные срезы по меткам «Попаданцы: в своём теле / в чужом теле».
+- **Fanfics.me**: полный список фэндома (112 работ).
+- **Author.today**: поиск по «пираты карибского моря попаданец», «Джек Воробей», «Калипсо попаданец», теги.
+- **Rulate, Самиздат, англоязычные источники** (AO3/FFN через поиск) — по ключевым словам «бог моря / Калипсо / Посейдон + бессмертие / регенерация от морской воды + охранять девушку».
+
+Точного совпадения с вашим описанием (морской бог → бессмертие/регенерация от морской воды → задание охранять девушку) **не нашлось ни в одном каталоге**.
+
+## Лучший кандидат
+
+**«Убегая от Смерти / Попаданец в Пиратов Карибского Моря»** — авторы OldBush и Евгений Год
+- Ficbook (35 глав): https://ficbook.net/readfic/01923872-a037-73ad-9cdd-e375a1f0c44a
+- Author.today (45 глав, свежее): https://author.today/work/361699
+
+Сюжет: смертельно больной русский экстремал Сергей Громов угоняет яхту наркобарона, попадает через шторм в мир ПКМ, становится пиратским капитаном и ищет способ избежать смерти. Есть ведьма Шанса, богиня («Милость богини» — одна из глав), Элизабет Суонн среди персонажей, глава «Похищение принцессы». Я прочитал главы 1, 9 и 25 — там пока **нет** ни дара морского бога, ни регенерации от морской воды, ни задания охранять девушку. Если вы читали именно этот фик, то эти элементы появляются ближе к концу; если нет — это просто ближайшая по атмосфере вещь.
+
+## Слабые варианты
+- «Стать морем» (Мантикор) — попаданец в тело Дэйви Джонса: https://ficbook.net/readfic/9614191
+- «Талисман Барона» (Ardos) — перерождённый в юнгу с магическим амулетом: https://ficbook.net/readfic/5016590
+- Владислав Бобков, «Попаданец в Пиратов Карибского Моря» (герой становится новым Дэйви Джонсом): https://author.today/post/148300
+
+## Чтобы найти точно
+Если ничего из этого не то — помогут любые детали:
+1. Где читали (Ficbook, Author.today, Самиздат, Rulate, Wattpad, англоязычный сайт)?
+2. Примерно когда (год)?
+3. Имя героя или девушки (это Элизабет Суонн, Карина, Анжелика или ОЖП?), от какого бога дар (Калипсо/Тиа Дальма, Посейдон, безымянный)?
+4. Русский оригинал или перевод (китайские/английские новеллы по ПКМ на Rulate — отдельный пласт, который по вашему описанию очень похож: «система/дар от бога моря + задание охранять героиню» — типичный сюжет китайских фанфиков)?
